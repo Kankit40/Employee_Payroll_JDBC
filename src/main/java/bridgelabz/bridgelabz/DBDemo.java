@@ -1,4 +1,4 @@
-package com.bridgelabz;
+package bridgelabz.bridgelabz;
 import java.sql.Connection;
 import java.sql.Driver;
 import java.sql.DriverManager;
